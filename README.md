@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, films, games, and the outdoors. 
 - 🌱 I’m currently studying computer science at Oregon State University. This term specifically: Operating Systems, Database Management, and Software Engineering skills
 - 💞️ I’m looking to collaborate on interview questions and career advice. 
-- 📫 How to reach me ... bgronberb@oregonstate.edu
+- 📫 How to reach me ... gronberb@oregonstate.edu
 
 <!---
 bgronberg/bgronberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
