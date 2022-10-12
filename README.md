@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bgronberg
 - 👀 I’m interested in music, photography, travel, and the outdoors. 
-- 🌱 I’m currently studying computer science at Oregon State University. This term specifically: Programming Languages, Parallel Programming, and Software Engineering skills. 
+- 🌱 I’m in my final term, studying computer science at Oregon State University. 
 - 📫 How to reach me ... gronberb@oregonstate.edu
 
 <!---
